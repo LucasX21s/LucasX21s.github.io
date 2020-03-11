@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>用自带软件为你的Mac文件夹加上访问密码</title>
+      <link href="/2020031122.html"/>
+      <url>/2020031122.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1>使用自带的磁盘工具</h1><p><a href="https://cdn.jsdelivr.net/gh/LucasX21s/img_for_blog/blog/img/22.07.28.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cdn.jsdelivr.net/gh/LucasX21s/img_for_blog/blog/img/22.07.28.png" src="/img/loading.gif" class="lazyload"></a></p><ol><li>打开你的磁盘工具（一般在实用工具文件夹里），在上方菜单中选择<br><code>File -&gt; new image -&gt; image from folder</code></li><li>选中你想加密的文件夹。</li><li>随意选择一种加密方式，输入密码两次，注意不到点到第二行的小钥匙符号，不然会系统生成一组密码。</li><li>然后点保存，你就得到了一个dmg文件，是不是很熟悉，平时安装的软件都是打包成这个格式的。</li><li>再双击打开，就会发现需要输入密码了。注意不要让钥匙串记住密码。</li><li>删除原文件夹，因为这种方法实际是新生成了加密文件，原文件仍在。</li></ol><p>感觉这个方法用起来还是比较繁琐，等我再找找别的方法。</p><h1>其它方法</h1><p>也可以使用加密软件</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> macOS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文件访问加密 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Everyday-one-cat!魔性猫脑洞停不下来！</title>
       <link href="/2020031120.html"/>
       <url>/2020031120.html</url>
